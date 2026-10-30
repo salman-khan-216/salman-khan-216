@@ -22,13 +22,43 @@
 
 ## 🛠️ Tech Stack
 
-| Area | Tools |
-|------|-------|
-| **Cloud** | Azure Data Factory, Azure Databricks, Azure Synapse Analytics, ADLS Gen2 |
-| **Big Data** | PySpark, Delta Lake, Spark SQL |
-| **Orchestration** | Apache Airflow, ADF Pipelines |
-| **Languages** | Python, SQL |
-| **Version Control** | Git, GitHub |
+**☁️ Cloud & Data Platform**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**⚡ Big Data & Processing**
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge" />
+</p>
+
+**🔄 Orchestration**
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADF%20Pipelines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**💻 Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+</p>
+
+**🧰 Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## 📜 Certifications
 
@@ -36,6 +66,7 @@
 - 🥇 Databricks Certified **Data Engineer Associate**
 - 🥇 Databricks Certified **Data Analyst Associate**
 - 🥇 Databricks Certified **Generative AI Engineer Associate**
+- 🔷 Microsoft Certified: **Azure Databricks Data Engineer Associate** (DP-750)
 
 ## 🚀 What I Work On
 
