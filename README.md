@@ -63,8 +63,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=salman-khan-216&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-khan-216&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/salman-khan-216?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/salman-khan-216?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=salman-khan-216&label=Profile%20views&style=for-the-badge&color=0078D4" />
 </p>
 
 ---
